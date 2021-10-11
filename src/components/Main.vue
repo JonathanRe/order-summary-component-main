@@ -5,14 +5,14 @@
     <div class="mx-6 mt-16 rounded-2xl overflow-hidden bg-white shadow-2xl">
         <img src="../assets/illustration-hero.svg" alt="Woman with headphones on and a cellphone in hand, dancing in front of a night time skyline amidst floating musical notes">
         <div class="p-6">
-            <h2>Order Summary</h2>
-            <p>
+            <h2 class="mt-2 font-black text-2xl text-center text-gray-800">Order Summary</h2>
+            <p class="mt-4 px-1 text-center">
                 You can now listen to millions of songs, audiobooks, and podcasts on any
                 device anywhere you like!
             </p>
-            <div>
+            <div class="mt-8">
                 <img src="../assets/icon-music.svg" alt="Icon of a musical note">
-                <span>Annual Plan</span>
+                <span class="font-black text-gray-800">Annual Plan</span>
                 <span>$59.99/year</span>
                 <a href="#">Change</a>
             </div>
