@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobilefirst-with-vuejs-and-tailwindcss-jtqJ7j3sM)
 - Live Site URL: [Live Site](https://order-summary-component-main-omega.vercel.app/)
 
 ## My process
