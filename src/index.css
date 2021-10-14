@@ -3,10 +3,20 @@
 @tailwind utilities;
 
 @layer base {
+    ::selection {
+        @apply text-white bg-indigo-700
+    }
     body {
         @apply bg-pale-blue font-custom text-base text-gray-500;
         background-image: url('./src/assets/pattern-background-mobile.svg');
         background-repeat: no-repeat;
         background-size: contain;
+    }
+    @media (min-width: 495px) {
+        body {
+            background-image: url('./src/assets/pattern-background-desktop.svg');
+            background-size: cover;
+            background-position: top -300px left 0px;
+        }
     }
 }
