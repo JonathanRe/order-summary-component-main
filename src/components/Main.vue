@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="mx-6 mt-16 rounded-2xl overflow-hidden bg-white shadow-2xl">
+    <div class="mx-6 mt-16 rounded-2xl overflow-hidden bg-very-pale-blue shadow-2xl">
         <img src="../assets/illustration-hero.svg" alt="Woman with headphones on and a cellphone in hand, dancing in front of a night time skyline amidst floating musical notes">
         <div class="p-6 pb-4">
             <h2 class="mt-2 font-black text-2xl text-center text-gray-800">Order Summary</h2>

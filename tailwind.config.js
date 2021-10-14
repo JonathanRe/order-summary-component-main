@@ -5,6 +5,10 @@ module.exports = {
     extend: {
       fontFamily: {
         'custom': ['"Red Hat Display"', 'sans-serif'],
+      },
+      backgroundColor: {
+        'pale-blue': 'hsl(225, 100%, 94%)',
+        'very-pale-blue': 'hsl(225, 100%, 98%)',
       }
     },
   },

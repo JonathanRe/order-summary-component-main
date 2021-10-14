@@ -4,8 +4,7 @@
 
 @layer base {
     body {
-        @apply font-custom text-base text-gray-500;
-        background-color: hsl(225deg 100% 94%);
+        @apply bg-pale-blue font-custom text-base text-gray-500;
         background-image: url('./src/assets/pattern-background-mobile.svg');
         background-repeat: no-repeat;
         background-size: contain;
